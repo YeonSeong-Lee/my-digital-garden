@@ -5,4 +5,4 @@
 
 # HELLO WORLD
 
-[[design/polar_logo_seongyle/logo_story|logo_story]]
+[[design/polar_logo_seongyle/polar_logo_story|polar_logo_story]]
