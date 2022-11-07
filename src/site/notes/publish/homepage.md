@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/homepage/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"permalink":"/publish/homepage/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
@@ -15,4 +15,5 @@
 [[design/polar_logo_seongyle/polar_logo_story|polar_logo_story]]
 
 ## LIFE DEBUGGING
-[[Notes/구글링|구글링]]
+[[computer science/구글링|구글링]]
+[[computer science/코드리뷰 남기기|코드리뷰 남기기]]
