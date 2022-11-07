@@ -15,5 +15,5 @@
 [[design/polar_logo_seongyle/polar_logo_story|polar_logo_story]]
 
 ## LIFE DEBUGGING
-[[computer science/구글링|구글링]]
-[[computer science/코드리뷰 남기기|코드리뷰 남기기]]
+[[computer science/googling|googling]]
+[[computer science/code_review|code_review]]
