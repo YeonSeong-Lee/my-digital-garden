@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/design/polar-logo-seongyle/polar-logo-story/"}
+{"dg-publish":true,"title":"polar logo story","tags":"design","permalink":"/design/polar-logo-seongyle/polar-logo-story/","dgPassFrontmatter":true}
 ---
 
 
