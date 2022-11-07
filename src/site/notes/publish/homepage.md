@@ -3,6 +3,9 @@
 ---
 
 
+# MATH
+[[contents/math/영벡터|영벡터]]
+
 # OS
 [[contents/OS/운영체제란 무엇인가|운영체제란 무엇인가]]
 
