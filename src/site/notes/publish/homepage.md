@@ -14,6 +14,9 @@
 ## WHAT I DESIGN
 [[design/polar_logo_seongyle/polar_logo_story|polar_logo_story]]
 
+## TROUBLESHOOTING
+[[troubleshooting/node-schedule "Time Zone"|node-schedule "Time Zone"]]
+
 ## LIFE DEBUGGING
 [[computer science/googling|googling]]
 [[computer science/code_review|code_review]]
