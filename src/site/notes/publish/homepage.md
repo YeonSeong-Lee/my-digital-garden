@@ -6,7 +6,7 @@
 # HOMEPAGE
 
 ## MATH
-[[computer science/math/영벡터|영벡터]]
+[[computer science/math/zero vector|zero vector]]
 
 ## OS
 [[computer science/OS/운영체제란 무엇인가|운영체제란 무엇인가]]
