@@ -16,6 +16,7 @@
 
 ## TROUBLESHOOTING
 [[troubleshooting/node-schedule Time Zone|node-schedule Time Zone]]
+[[troubleshooting/chmod command recursive|chmod command recursive]]
 
 ## LIFE DEBUGGING
 [[computer science/googling|googling]]
