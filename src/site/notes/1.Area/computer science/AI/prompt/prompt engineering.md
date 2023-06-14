@@ -4,7 +4,7 @@
 
 
 
-[강의링크]https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+[강의링크](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 
 # Write clear and specific instructions
