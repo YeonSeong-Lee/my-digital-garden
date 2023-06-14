@@ -1,5 +1,5 @@
 ---
-{"title":"chatgpt prompt engineering","tags":"prompt, cs, AI","dg-publish":true,"permalink":"/1-area/computer-science/ai/prompt/prompt-engineering/","dgPassFrontmatter":true}
+{"title":"prompt engineering","tags":"prompt, cs, AI","dg-publish":true,"permalink":"/1-area/computer-science/ai/prompt/prompt-engineering/","dgPassFrontmatter":true}
 ---
 
 
